@@ -4,7 +4,7 @@
 ![Pytorch 1.10.1](https://img.shields.io/badge/pytorch-1.10.1-DodgerBlue.svg?style=plastic)
 ![CUDA 11.0](https://img.shields.io/badge/cuda-11.0-DodgerBlue.svg?style=plastic)
 
-![table](https://user-images.githubusercontent.com/77789132/218352227-3a6f7c84-c6d2-4bc3-b94f-8835f5967ee4.png)
+![table](https://user-images.githubusercontent.com/77789132/218352301-421a9fe1-70d4-469f-91e8-0e9da2bdc823.png)
 
 # Requirements
 + Python >= 3.6
