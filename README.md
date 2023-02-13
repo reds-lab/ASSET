@@ -1,4 +1,4 @@
-# ASSET
+# ASSET: Robust Backdoor Data Detection Across a Multiplicity of Deep Learning Paradigms
 
 ![Python 3.6](https://img.shields.io/badge/python-3.6-DodgerBlue.svg?style=plastic)
 ![Pytorch 1.10.1](https://img.shields.io/badge/pytorch-1.10.1-DodgerBlue.svg?style=plastic)
