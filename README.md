@@ -9,13 +9,18 @@
 
 This repository is the official implementation of the paper "[ASSET: Robust Backdoor Data Detection Across a Multiplicity of Deep Learning Paradigms](https://www.yi-zeng.com/)." We find that existing detection methods cannot be applied or suffer limited performance for Self-Supervised Learning and transfer learning; even for the widely studied end-to-end supervised learning setting, there is still large room to improve detection in terms of their robustness to variations in poison ratio and attack designs.
 
+# Features
+
 # Requirements
 + Python >= 3.6
 + PyTorch >= 1.10.1
 + Torchvision >= 0.11.2
 + Imageio >= 2.9.0
 
+
 # Usage & HOW-TO
 <p align="justify">Use the ASSET_demo.ipynb
  notebook for a quick start of the ASSET defense (demonstrated on the CIFAR-10 dataset). The default setting running on the CIFAR-10 dataset and attack method is BadNets on ResNet-18.</p>
+ 
+# Can you make it easier?
 
