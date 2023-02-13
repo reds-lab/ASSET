@@ -8,8 +8,10 @@
 This repository is the official implementation of the paper "[ASSET: Robust Backdoor Data Detection Across a Multiplicity of Deep Learning Paradigms](https://www.yi-zeng.com/)." We find that existing detection methods cannot be applied or suffer limited performance for Self-Supervised Learning and transfer learning; even for the widely studied end-to-end supervised learning setting, there is still large room to improve detection in terms of their robustness to variations in poison ratio and attack designs.
 
 # Features
-![table](https://user-images.githubusercontent.com/77789132/218352301-421a9fe1-70d4-469f-91e8-0e9da2bdc823.png)
+
 ![Paradigm_Shift_Half_New (1)](https://user-images.githubusercontent.com/77789132/218583421-1184b200-5dd0-418a-82a7-15754704fc2f.png)
+Backdoor data detection is traditionally studied in an end-to-end supervised learning (SL) setting. However, recent yearshave seen the proliferating adoption of self-supervised learning (SSL) and transfer learning (TL), due to their lesser need for labeled data.
+![table](https://user-images.githubusercontent.com/77789132/218352301-421a9fe1-70d4-469f-91e8-0e9da2bdc823.png)
 
 # Requirements
 + Python >= 3.6
