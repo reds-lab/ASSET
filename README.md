@@ -9,6 +9,7 @@ This repository is the official implementation of the paper "[ASSET: Robust Back
 
 # Features
 ![table](https://user-images.githubusercontent.com/77789132/218352301-421a9fe1-70d4-469f-91e8-0e9da2bdc823.png)
+![Paradigm_Shift_Half_New (1)](https://user-images.githubusercontent.com/77789132/218583421-1184b200-5dd0-418a-82a7-15754704fc2f.png)
 
 # Requirements
 + Python >= 3.6
