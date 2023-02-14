@@ -3,8 +3,10 @@
 ![Python 3.6](https://img.shields.io/badge/python-3.6-DodgerBlue.svg?style=plastic)
 ![Pytorch 1.10.1](https://img.shields.io/badge/pytorch-1.10.1-DodgerBlue.svg?style=plastic)
 ![CUDA 11.0](https://img.shields.io/badge/cuda-11.0-DodgerBlue.svg?style=plastic)
-
-![asset](https://user-images.githubusercontent.com/77789132/218630276-20c8ee0c-61dd-4518-b4fb-72943518596f.gif)
+<div align=center>
+ 
+<img src="[https://user-images.githubusercontent.com/77789132/218583421-1184b200-5dd0-418a-82a7-15754704fc2f.png](https://user-images.githubusercontent.com/77789132/218630276-20c8ee0c-61dd-4518-b4fb-72943518596f.gif)">
+</div>
 
 This repository is the official implementation of the paper "[ASSET: Robust Backdoor Data Detection Across a Multiplicity of Deep Learning Paradigms](https://www.yi-zeng.com/)." We find that existing detection methods cannot be applied or suffer limited performance for Self-Supervised Learning and transfer learning; even for the widely studied end-to-end supervised learning setting, there is still large room to improve detection in terms of their robustness to variations in poison ratio and attack designs.
 
