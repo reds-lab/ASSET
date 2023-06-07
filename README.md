@@ -9,7 +9,7 @@
 </div>
 
 
-This repository is the official implementation of the paper "[ASSET: Robust Backdoor Data Detection Across a Multiplicity of Deep Learning Paradigms](https://www.yi-zeng.com/)." We find that existing detection methods cannot be applied or suffer limited performance for Self-Supervised Learning and transfer learning; even for the widely studied end-to-end supervised learning setting, there is still large room to improve detection in terms of their robustness to variations in poison ratio and attack designs.
+This repository is the official implementation of the Usenix Security 2023 paper "[ASSET: Robust Backdoor Data Detection Across a Multiplicity of Deep Learning Paradigms](https://www.yi-zeng.com/)." We find that existing detection methods cannot be applied or suffer limited performance for Self-Supervised Learning and transfer learning; even for the widely studied end-to-end supervised learning setting, there is still large room to improve detection in terms of their robustness to variations in poison ratio and attack designs.
 
 To address this problem...actively introduce diffrent model behaviors...
 
